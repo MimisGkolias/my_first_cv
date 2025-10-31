@@ -3,7 +3,7 @@
 This is a simple yet charming CV website that I created when I was 19 years old as part of Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp" on Udemy. This comprehensive course covers Python programming, web development, data science, automation, and much more through 100 hands-on projects. This CV website represents one of my early python development projects and serves as a nostalgic snapshot of my programming journey.
 
 ## 🌐 Live Demo
-**[View My CV Website](https://mimisgkolias.github.io/cv/)**
+**[View My CV Website]([https://mimisgkolias.github.io/cv/](https://mimisgkolias.github.io/my_first_cv/))**
 
 ## 📋 Features
 - Personal information and photo
